@@ -1,0 +1,132 @@
+date,county,state,fips,cases
+19/03/2020,Abbeville,South Carolina,45001,1
+20/03/2020,Abbeville,South Carolina,45001,1
+15/03/2020,Baker,Florida,12003,1
+16/03/2020,Baker,Florida,12003,1
+17/03/2020,Baker,Florida,12003,1
+18/03/2020,Baker,Florida,12003,1
+19/03/2020,Baker,Florida,12003,1
+20/03/2020,Baker,Florida,12003,1
+14/03/2020,Baldwin,Alabama,1003,1
+15/03/2020,Baldwin,Alabama,1003,1
+16/03/2020,Baldwin,Alabama,1003,1
+17/03/2020,Baldwin,Alabama,1003,1
+18/03/2020,Baldwin,Alabama,1003,1
+19/03/2020,Baldwin,Alabama,1003,1
+20/03/2020,Baldwin,Alabama,1003,2
+15/03/2020,Baltimore city,Maryland,24510,1
+16/03/2020,Baltimore city,Maryland,24510,1
+17/03/2020,Baltimore city,Maryland,24510,3
+18/03/2020,Baltimore city,Maryland,24510,7
+19/03/2020,Baltimore city,Maryland,24510,7
+20/03/2020,Baltimore city,Maryland,24510,11
+05/03/2020,Clark,Nevada,32003,1
+06/03/2020,Clark,Nevada,32003,1
+06/03/2020,Clark,Washington,53011,1
+07/03/2020,Clark,Nevada,32003,1
+07/03/2020,Clark,Washington,53011,1
+08/03/2020,Clark,Nevada,32003,2
+08/03/2020,Clark,Washington,53011,1
+09/03/2020,Clark,Nevada,32003,2
+09/03/2020,Clark,Washington,53011,1
+10/03/2020,Clark,Nevada,32003,2
+10/03/2020,Clark,Washington,53011,1
+11/03/2020,Clark,Nevada,32003,5
+11/03/2020,Clark,Washington,53011,1
+12/03/2020,Clark,Nevada,32003,8
+12/03/2020,Clark,Washington,53011,1
+13/03/2020,Clark,Nevada,32003,16
+13/03/2020,Clark,Washington,53011,3
+14/03/2020,Clark,Nevada,32003,16
+14/03/2020,Clark,Washington,53011,3
+15/03/2020,Clark,Kentucky,21049,1
+15/03/2020,Clark,Nevada,32003,16
+15/03/2020,Clark,Washington,53011,3
+16/03/2020,Clark,Kentucky,21049,1
+16/03/2020,Clark,Nevada,32003,35
+16/03/2020,Clark,Washington,53011,4
+17/03/2020,Clark,Kentucky,21049,1
+17/03/2020,Clark,Nevada,32003,42
+17/03/2020,Clark,Washington,53011,4
+18/03/2020,Clark,Indiana,18019,1
+18/03/2020,Clark,Kentucky,21049,2
+18/03/2020,Clark,Nevada,32003,69
+18/03/2020,Clark,Ohio,39023,1
+18/03/2020,Clark,Washington,53011,4
+19/03/2020,Clark,Arkansas,5019,1
+19/03/2020,Clark,Indiana,18019,1
+19/03/2020,Clark,Kentucky,21049,2
+19/03/2020,Clark,Nevada,32003,74
+19/03/2020,Clark,Ohio,39023,1
+19/03/2020,Clark,Washington,53011,4
+20/03/2020,Clark,Arkansas,5019,1
+20/03/2020,Clark,Indiana,18019,1
+20/03/2020,Clark,Kentucky,21049,2
+20/03/2020,Clark,Nevada,32003,126
+20/03/2020,Clark,Ohio,39023,1
+20/03/2020,Clark,Washington,53011,6
+15/03/2020,Clarke,Georgia,13059,2
+16/03/2020,Clarke,Georgia,13059,3
+17/03/2020,Clarke,Georgia,13059,3
+18/03/2020,Clarke,Georgia,13059,4
+19/03/2020,Clarke,Georgia,13059,7
+20/03/2020,Clarke,Georgia,13059,9
+12/03/2020,Clay,Florida,12019,1
+13/03/2020,Clay,Florida,12019,1
+14/03/2020,Clay,Florida,12019,1
+15/03/2020,Clay,Florida,12019,3
+16/03/2020,Clay,Florida,12019,3
+17/03/2020,Clay,Florida,12019,4
+18/03/2020,Clay,Florida,12019,4
+19/03/2020,Clay,Florida,12019,4
+20/03/2020,Clay,Florida,12019,4
+20/03/2020,Clay,Minnesota,27027,1
+17/03/2020,Goochland,Virginia,51075,1
+18/03/2020,Goochland,Virginia,51075,1
+19/03/2020,Goochland,Virginia,51075,1
+20/03/2020,Goochland,Virginia,51075,1
+13/03/2020,Gordon,Georgia,13129,2
+14/03/2020,Gordon,Georgia,13129,2
+15/03/2020,Gordon,Georgia,13129,2
+16/03/2020,Gordon,Georgia,13129,2
+17/03/2020,Gordon,Georgia,13129,2
+18/03/2020,Gordon,Georgia,13129,3
+19/03/2020,Gordon,Georgia,13129,3
+20/03/2020,Gordon,Georgia,13129,3
+19/03/2020,Grady,Oklahoma,40051,1
+20/03/2020,Grady,Oklahoma,40051,1
+12/03/2020,Kent,Michigan,26081,3
+13/03/2020,Kent,Michigan,26081,3
+14/03/2020,Kent,Michigan,26081,3
+15/03/2020,Kent,Michigan,26081,5
+16/03/2020,Kent,Michigan,26081,5
+17/03/2020,Kent,Michigan,26081,5
+18/03/2020,Kent,Delaware,10001,3
+18/03/2020,Kent,Michigan,26081,5
+19/03/2020,Kent,Delaware,10001,4
+19/03/2020,Kent,Michigan,26081,12
+20/03/2020,Kent,Delaware,10001,4
+20/03/2020,Kent,Michigan,26081,12
+18/03/2020,Kenton,Kentucky,21117,1
+19/03/2020,Kenton,Kentucky,21117,1
+20/03/2020,Kenton,Kentucky,21117,1
+17/03/2020,Kern,California,6029,1
+18/03/2020,Kern,California,6029,1
+19/03/2020,Kern,California,6029,2
+20/03/2020,Kern,California,6029,2
+16/03/2020,York,Virginia,51199,1
+17/03/2020,York,Maine,23031,1
+17/03/2020,York,South Carolina,45091,1
+17/03/2020,York,Virginia,51199,1
+18/03/2020,York,Maine,23031,1
+18/03/2020,York,Pennsylvania,42133,2
+18/03/2020,York,South Carolina,45091,1
+18/03/2020,York,Virginia,51199,1
+19/03/2020,York,Maine,23031,3
+19/03/2020,York,Pennsylvania,42133,2
+19/03/2020,York,South Carolina,45091,1
+19/03/2020,York,Virginia,51199,1
+20/03/2020,York,Maine,23031,5
+20/03/2020,York,Pennsylvania,42133,6
+20/03/2020,York,South Carolina,45091,1
+20/03/2020,York,Virginia,51199,3
